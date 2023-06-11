@@ -2,10 +2,9 @@
 
 
 ## Sobre mim 🙋
-Sou uma **desenvolvedora front-end** de 24 anos com muita vontade de aprender e ajudar a comunidade.
-- Atualmente trabalho montando um site para um projeto de psicologia educacional da UFPR
-- Buscando aprender mais sobre produtividade com VueJs
-- Buscando melhorar minhas skills de tipagem
+Sou uma **desenvolvedora front-end** de 26 anos com muita vontade de aprender e ajudar a comunidade.
+- pós graduação em Desenvolvimento de aplicativos móveis multiplataforma.
+- Trabalho com front end web e mobile
 - Apesar de amar o front, tambem gosto de me aventurar em automações (cypress, puppeteer e, meu favorito, **robot framework**)
 - Fun fact: amo artesanato, especialmente croche e ponto cruz!
 
@@ -13,6 +12,7 @@ Sou uma **desenvolvedora front-end** de 24 anos com muita vontade de aprender e 
 
 - 🤝Meetups sobre tecnologia (você encontra o link [aqui](https://www.meetup.com/pt-BR/Contabilizei-Meetup/events/280171221/attendees/))
 - 🏷 Organização de uma guilda de Typescript
+- Organização de eventos de tecnologia
 
 ## Fale comigo
 
